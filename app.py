@@ -5,7 +5,7 @@ from flask_cors import CORS, cross_origin
 import json
 import markovify as mk
 # Reading a JSON file
-with open('model1.json', 'r') as f:
+with open('./model/model1.json', 'r') as f:
     data = json.load(f)
 reconstituted_model = mk.Text.from_json(data)
 import random 
