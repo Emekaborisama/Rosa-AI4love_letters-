@@ -1,6 +1,6 @@
 markovify
 pandas
 numpy
-nltk
 flask
 Flask_Cors
+

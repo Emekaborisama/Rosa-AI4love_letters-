@@ -4,9 +4,6 @@ import numpy as np
 from flask_cors import CORS, cross_origin
 import json
 import markovify as mk
-import nltk
-nltk.download('punkt')
-from nltk.tokenize import sent_tokenize as sent_tok
 # Reading a JSON file
 with open('model1.json', 'r') as f:
     data = json.load(f)
