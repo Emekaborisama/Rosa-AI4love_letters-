@@ -13,3 +13,11 @@ Introducing a breakthrough technology in writing love letter with no plagiarism 
 
 Have you ever wanted to send a love letter to your partner but didn’t have the time or the right words to express yourself? Rosa is here to help. Rosa is an AI generated love letter app that personalizes your letters and removes all the plagiarism problems.
 
+
+
+## Todo
+
+- add like and dislike button
+- add ads
+
+
