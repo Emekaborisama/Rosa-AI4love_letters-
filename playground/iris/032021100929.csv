@@ -1,0 +1,3 @@
+round_epochs,loss,val_loss,activation,batch_size,epochs,losses,optimizer
+20,0.9975889921188354,0.9544034600257874,elu,30,20,categorical_crossentropy,Nadam
+10,1.1943217515945435,1.1346648931503296,relu,40,10,categorical_crossentropy,Adam
