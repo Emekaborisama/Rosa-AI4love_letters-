@@ -1,4 +1,4 @@
-name: summarizerbot
+name: rosalove
 image: okteto/python:3
 command: bash
 volumes:
